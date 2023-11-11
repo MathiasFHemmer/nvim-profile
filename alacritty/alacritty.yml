@@ -1,0 +1,21 @@
+window:
+  opacity: 1
+  decorations: none
+  startup_mode: fullscreen
+
+font:
+  normal:
+    family: Mononoki Nerd Font
+    style: Regular
+
+  bold:
+    family: Mononoki Nerd Font
+    style: Light
+
+  italic:
+    family: Mononoki Nerd Font
+    style: Extra Light Italic
+
+  bold_italic:
+    family: Mononoki Nerd Font
+    style: Light Italic
